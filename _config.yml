@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Stephen Chapman"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Husband, father, son."
   location         : "Rockville, MD."
   email            : "stevochapman@gmail.com"
